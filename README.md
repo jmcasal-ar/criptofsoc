@@ -1,2 +1,2 @@
-# criptofsoc
+# CRIPTOFSOC
 La criptomoneda de Sociales
